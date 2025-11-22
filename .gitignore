@@ -1,0 +1,22 @@
+# Virtual environments
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# (Optional) ignore large raw data
+# data/
+
+#  Ignore big dataset
+creditcard.csv
+# or if later you put it inside data/
+# data/
