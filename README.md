@@ -1,5 +1,8 @@
 # 💳 Credit Card Fraud Detection (Machine Learning)
+### 🚀 A very Basic Prototype using Random Forest + SMOTE Model Live Demo
 
+Try the app on Hugging Face Spaces:  
+https://huggingface.co/spaces/Kushalii/credit-card-fraud-detection
 This project builds and evaluates machine learning models to detect fraudulent credit card transactions using the well-known **European credit card fraud dataset**.
 
 It is an **end-to-end fraud detection pipeline** that covers:
