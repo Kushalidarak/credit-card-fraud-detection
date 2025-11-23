@@ -6,3 +6,4 @@ seaborn
 imbalanced-learn
 jupyter
 joblib
+gradio
